@@ -1,0 +1,16 @@
+body {
+    font-size: sans-serif;
+    box-sizing: border-box; 
+}
+
+.webcam-container {
+    align-items: center;
+}
+
+div {
+    font-size: 1em;
+}
+
+canvas {
+    align-items: center;
+}
